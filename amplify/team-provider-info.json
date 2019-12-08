@@ -1,0 +1,19 @@
+{
+    "authpoc": {
+        "awscloudformation": {
+            "AuthRoleName": "auth-poc-authpoc-20191004165220-authRole",
+            "UnauthRoleArn": "arn:aws:iam::124283145826:role/auth-poc-authpoc-20191004165220-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::124283145826:role/auth-poc-authpoc-20191004165220-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "auth-poc-authpoc-20191004165220-deployment",
+            "UnauthRoleName": "auth-poc-authpoc-20191004165220-unauthRole",
+            "StackName": "auth-poc-authpoc-20191004165220",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:124283145826:stack/auth-poc-authpoc-20191004165220/3bae8a70-e699-11e9-85f4-0217024b0d4e"
+        },
+        "categories": {
+            "auth": {
+                "authpoc07a6575c": {}
+            }
+        }
+    }
+}

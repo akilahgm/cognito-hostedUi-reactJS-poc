@@ -1,0 +1,9 @@
+{
+    "auth": {
+        "authpoc07a6575c": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    }
+}
